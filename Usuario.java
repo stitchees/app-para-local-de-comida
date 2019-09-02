@@ -25,6 +25,8 @@ public String getNombre() {
 	return nombre;
 }
 
+XXDXDXDXD
+
 public void setNombre(String nombre) {
 	this.nombre = nombre;
 }
